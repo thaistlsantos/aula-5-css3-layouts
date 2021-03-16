@@ -1,0 +1,8 @@
+#caixa-1, #caixa-2, #caixa-3 {
+    display: block;
+    width: 200px;
+    padding: 20px;
+    border: 2px black solid;
+    margin: 10px;
+    float: left;
+}
